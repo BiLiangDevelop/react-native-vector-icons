@@ -156,5 +156,10 @@
 	"login_btn_phone":59802,
 	"person_icon_phone":59803,
 	"person_icon_arms":59804,
-	"person_icon_order":59805
+	"person_icon_order":59805,
+  "quxitu":59806,
+  "day":59810,
+  "scanning":59815
+
+
 }
